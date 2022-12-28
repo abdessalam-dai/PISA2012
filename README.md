@@ -14,7 +14,7 @@ PISA is a survey of students' skills and knowledge as they approach the end of c
 
 Around 510,000 students in 65 economies took part in the PISA 2012 assessment of reading, mathematics and science representing about 28 million 15-year-olds globally. Of those economies, 44 took part in an assessment of creative problem solving and 18 in an assessment of financial literacy.
 
-These are the columns that helped me to determi how environmental factors affect learning success:
+These are the columns that helped me to determin how environmental factors affect learning success:
 
 - **PV1MATH**: Plausible value 1 in mathematics
 - **PV2MATH**: Plausible value 2 in mathematics
