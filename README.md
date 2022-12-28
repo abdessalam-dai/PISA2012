@@ -17,26 +17,47 @@ Around 510,000 students in 65 economies took part in the PISA 2012 assessment of
 These are the columns that helped me to determin how environmental factors affect learning success:
 
 - **PV1MATH**: Plausible value 1 in mathematics
+
 - **PV2MATH**: Plausible value 2 in mathematics
+
 - **PV3MATH**: Plausible value 3 in mathematics
+
 - **PV4MATH**: Plausible value 4 in mathematics
+
 - **PV5MATH**: Plausible value 5 in mathematics
+
 - **PV1READ**: Plausible value 1 in reading
+
 - **PV2READ**: Plausible value 2 in reading
+
 - **PV3READ**: Plausible value 3 in reading
+
 - **PV4READ**: Plausible value 4 in reading
+
 - **PV5READ**: Plausible value 5 in reading
+
 - **PV1SCIE**: Plausible value 1 in science
+
 - **PV2SCIE**: Plausible value 2 in science
+
 - **PV3SCIE**: Plausible value 3 in science
+
 - **PV4SCIE**: Plausible value 4 in science
+
 - **PV5SCIE**: Plausible value 5 in science
+
 - **WEALTH**: Wealth
+
 - **CNT**: Country
+
 - **ST04Q01**: Gender of student
+
 - **HISCED**: Highest education level parents
+
 - **TIMEINT**: Time of computer use (mins)
+
 - **ST11Q01**: At Home - Mother
+
 - **ST11Q02**: At Home - Father
 
 
